@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="osdt_core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../ojdbc10-full/osdt_core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"sample","l":"Connection"},{"p":"sample","l":"Controller"},{"p":"sample","l":"DodajKsiazke"},{"p":"sample","l":"DostepneKsiazki"},{"p":"sample","l":"HistoriaSprzedazy"},{"p":"sample","l":"Main"},{"p":"sample","l":"SprzedajKsiazke"}];updateSearchResults();

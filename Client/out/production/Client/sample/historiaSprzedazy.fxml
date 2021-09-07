@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.HistoriaSprzedazy">
+   <children>
+      <Label layoutX="194.0" layoutY="29.0" text="Historia Sprzedaży">
+         <font>
+            <Font size="26.0" />
+         </font>
+      </Label>
+      <ListView fx:id="sell_history_list" layoutX="29.0" layoutY="82.0" prefHeight="218.0" prefWidth="380.0" />
+      <Button layoutX="453.0" layoutY="335.0" mnemonicParsing="false" onAction="#back_to_sell" prefHeight="38.0" prefWidth="116.0" text="Wróć">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Button>
+      <Button fx:id="save_history" layoutX="453.0" layoutY="269.0" mnemonicParsing="false" onAction="#save_history_to_file" prefHeight="38.0" prefWidth="116.0" text="Zapisz do pliku">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <TextField fx:id="history_search" layoutX="29.0" layoutY="341.0" prefHeight="25.0" prefWidth="380.0" />
+      <Label layoutX="29.0" layoutY="307.0" text="Wyszukaj">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Label>
+      <Button layoutX="348.0" layoutY="308.0" mnemonicParsing="false" onAction="#history_refresh" text="Odśwież" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Server:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="Server.jar">
+      <element id="module-output" name="Server" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ojdbc10-full/osdt_core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ojdbc10-full/oraclepki.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ojdbc10-full/osdt_cert.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ojdbc10-full/ojdbc10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-1.2-api/2.11.2/log4j-1.2-api-2.11.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
