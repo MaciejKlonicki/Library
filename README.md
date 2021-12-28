@@ -4,8 +4,7 @@ It's a simple study project that allows the worker to :
 - Add the book,
 - Delete the book,
 - Sell the book,
-- Find the book,
- Etc.
+- Find the book
  
  # Other features
  The program is using server-client communication.
