@@ -1,4 +1,4 @@
-# Library created in JAVA FX
+# Library created in JAVA FX, HTML, JAVASCRIPT
 
 It's a simple study project that allows the worker to :
 - Add the book,
