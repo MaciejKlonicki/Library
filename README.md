@@ -5,6 +5,10 @@ It's a simple study project that allows the worker to :
 - Delete the book,
 - Sell the book,
 - Find the book
+- Full documentation
+- Wallet
+- Connection between server and clients
+- 
  
  # Other features
  The program is using server-client communication.
