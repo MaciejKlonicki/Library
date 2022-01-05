@@ -8,7 +8,6 @@ It's a simple study project that allows the worker to :
 - Full documentation
 - Wallet
 - Connection between server and clients
-- 
  
  # Other features
  The program is using server-client communication.
